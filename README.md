@@ -1,0 +1,2 @@
+# mkoi
+Old algorithmic project
